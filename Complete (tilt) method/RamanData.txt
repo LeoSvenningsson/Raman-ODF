@@ -1,0 +1,15 @@
+conf330        88977
+conf3390       16236
+conf310        13059
+conf3190       7430.1
+conf3145       26722
+conf210RAS     4443.9
+conf230RAS     3045.4
+IF             0.97
+STDconf330     2872.1
+STDconf3390    1446.5
+STDconf310     1019.2
+STDconf3190    576.27
+STDconf3145    8028.5
+STDconf210RAS  485.97
+STDconf230RAS  115.14
